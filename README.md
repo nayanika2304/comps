@@ -2,7 +2,12 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.0.2.
 
-Developed using Angular and Typescript to show the usage of modules such as routed and routing modules using Angular routing
+Developed using Angular and Typescript to show the usage of modules such as 
+routed and routing modules using Angular routing
+Different components like a modal, accordion, table, tab menu, segments
+and styling
+
+Please visit the project at https://comps-taupe.vercel.app/
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
